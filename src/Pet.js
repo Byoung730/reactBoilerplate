@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 const Pet = props => {
   return (
@@ -7,7 +7,7 @@ const Pet = props => {
       <h3>{props.animal}</h3>
       <h4>{props.breed}</h4>
     </div>
-  );
-};
+  )
+}
 
-export default Pet;
+export default Pet
